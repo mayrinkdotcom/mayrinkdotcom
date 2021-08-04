@@ -2,9 +2,6 @@
 
 # Hi there <img height="30" src="https://i.imgur.com/yYqn19R.gif" />
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Pedro%20Mayrink-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-mayrink-de-jesus/)](https://www.linkedin.com/in/joao-pedro-mayrink-de-jesus/)
-<a href="https://dev.to/mayrinkdotcom" target="_blank">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="João Pedro Mayrink's DEV Community Profile" height="30" width="30">
-</a>
 
 ### 👦 About me 
 
