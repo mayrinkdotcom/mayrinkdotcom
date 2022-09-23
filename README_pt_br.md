@@ -1,7 +1,7 @@
 🇺🇸 For the English version, [click here](./README.md) 
 
 # Olá <img height="30" src="https://i.imgur.com/yYqn19R.gif" />
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Pedro%20Mayrink-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-mayrink-de-jesus/)](https://www.linkedin.com/in/joao-pedro-mayrink-de-jesus/)
+[![Linkedin Badge](https://img.shields.io/badge/-João%20Pedro%20Mayrink-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-pedro-mayrink-de-jesus/)](https://www.linkedin.com/in/joao-pedro-mayrink/)
 
 ### 👦 Sobre mim 
 
