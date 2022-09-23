@@ -9,6 +9,7 @@
 
 ### 📚 Áreas de estudo e habilidades
 
+  - Angular
   - Desenvolvimento Android (kotlin)
   - ReactJS
   - Next.js
