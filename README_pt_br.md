@@ -5,7 +5,7 @@
 
 ### 👦 Sobre mim 
 
-  Desenvolvedor Android Junior. Graduando em Engenharia de Software pela PUC Minas. Técnico em Eletrônica pelo CEFET-MG. Imerso nas áreas ligadas ao desenvolvimento de software, Data Science e aplicações de inteligência artificial. Experiência no campo de Internet of Things (IoT), programação de microcontroladores e desenvolvimento de equipamentos biomédicos. Participação em eventos de inovação tecnológica como expositor de projetos. Entusiasta no ramo científico de TI, sempre em busca de desenvolvimento pessoal e colaborativo. 
+  Desenvolvedor Front-end / Mobile Junior. Graduando em Engenharia de Software pela PUC Minas. Técnico em Eletrônica pelo CEFET-MG. Imerso nas áreas ligadas ao desenvolvimento de software, Data Science e aplicações de inteligência artificial. Experiência no campo de Internet of Things (IoT), programação de microcontroladores e desenvolvimento de equipamentos biomédicos. Participação em eventos de inovação tecnológica como expositor de projetos. Entusiasta no ramo científico de TI, sempre em busca de desenvolvimento pessoal e colaborativo. 
 
 ### 📚 Áreas de estudo e habilidades
 
