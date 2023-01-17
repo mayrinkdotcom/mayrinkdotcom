@@ -5,7 +5,7 @@
 
 ### 👦 About me 
 
-  Junior Frontend / Mobile Developer. Graduating in Software Engineering at PUC Minas. Electronics technician at CEFET-MG. Immersed in areas related to software development, Data Science and Artificial Intelligence. Experience in the Internet of Things (IoT) field, microcontrollers programming and development of biomedical equipment. Participation in technological innovation events as a project exhibitor. Enthsiastic at the IT scientific branch, always looking for personal and collaborative improvement. 
+  Mid-level Frontend / Mobile Developer. Graduating in Software Engineering at PUC Minas. Electronics technician at CEFET-MG. Immersed in areas related to software development, Data Science and Artificial Intelligence. Experience in the Internet of Things (IoT) field, microcontrollers programming and development of biomedical equipment. Participation in technological innovation events as a project exhibitor. Enthsiastic at the IT scientific branch, always looking for personal and collaborative improvement. 
   
 ### 📚 Studying areas and Skills
 
